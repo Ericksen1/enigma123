@@ -1,0 +1,12 @@
+{
+  "projects": {
+    "default": "enigma-ef35a"
+  },
+  "dataconnectEmulatorConfig": {
+    "postgres": {
+      "localConnectionString": {
+        "localConnectionString": "posgtresql://localhost:5432"
+      }
+    }
+  }
+}
